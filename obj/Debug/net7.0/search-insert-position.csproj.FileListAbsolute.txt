@@ -1,0 +1,15 @@
+C:\Users\trigo\Programação\C#\search-insert-position\bin\Debug\net7.0\search-insert-position.exe
+C:\Users\trigo\Programação\C#\search-insert-position\bin\Debug\net7.0\search-insert-position.deps.json
+C:\Users\trigo\Programação\C#\search-insert-position\bin\Debug\net7.0\search-insert-position.runtimeconfig.json
+C:\Users\trigo\Programação\C#\search-insert-position\bin\Debug\net7.0\search-insert-position.dll
+C:\Users\trigo\Programação\C#\search-insert-position\bin\Debug\net7.0\search-insert-position.pdb
+C:\Users\trigo\Programação\C#\search-insert-position\obj\Debug\net7.0\search-insert-position.csproj.AssemblyReference.cache
+C:\Users\trigo\Programação\C#\search-insert-position\obj\Debug\net7.0\search-insert-position.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\trigo\Programação\C#\search-insert-position\obj\Debug\net7.0\search-insert-position.AssemblyInfoInputs.cache
+C:\Users\trigo\Programação\C#\search-insert-position\obj\Debug\net7.0\search-insert-position.AssemblyInfo.cs
+C:\Users\trigo\Programação\C#\search-insert-position\obj\Debug\net7.0\search-insert-position.csproj.CoreCompileInputs.cache
+C:\Users\trigo\Programação\C#\search-insert-position\obj\Debug\net7.0\search-insert-position.dll
+C:\Users\trigo\Programação\C#\search-insert-position\obj\Debug\net7.0\refint\search-insert-position.dll
+C:\Users\trigo\Programação\C#\search-insert-position\obj\Debug\net7.0\search-insert-position.pdb
+C:\Users\trigo\Programação\C#\search-insert-position\obj\Debug\net7.0\search-insert-position.genruntimeconfig.cache
+C:\Users\trigo\Programação\C#\search-insert-position\obj\Debug\net7.0\ref\search-insert-position.dll
